@@ -17,3 +17,5 @@ def binary_search(arr, item):
 lo = [4, 3, 2, 1]
 l = [[4, 3, 2, 1], [3, 2, 1, -1], [1, 1, -1, -2], [-1, -1, -2, -3]]
 print(binary_search(lo, 4))
+
+
